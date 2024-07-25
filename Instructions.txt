@@ -1,0 +1,10 @@
+
+Sum of 1,2,3 will be shown in the display. Initially it will be zero.
+
+LED 0, LED 1, LED 2 will shows the output came from R7.
+
+LED 14, LED 15 will show the Zero and Overflow respectively.
+
+Reset operation wil handle by the push button btnC.
+
+Reset buuton will start the operation from 0.

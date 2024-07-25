@@ -1,0 +1,11 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Kopimenan/Downloads/Documents/project_1/project_1.sim/sim_1/synth/func/xsim/TB_Add_Sub_Unit_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Program_Counter'
+INFO: [VRFC 10-3107] analyzing entity 'Reg'
+INFO: [VRFC 10-3107] analyzing entity 'Reg_0'
+INFO: [VRFC 10-3107] analyzing entity 'Reg_1'
+INFO: [VRFC 10-3107] analyzing entity 'Reg_2'
+INFO: [VRFC 10-3107] analyzing entity 'Slow_Clk'
+INFO: [VRFC 10-3107] analyzing entity 'Reg_Bank'
+INFO: [VRFC 10-3107] analyzing entity 'NanoProcessor'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Kopimenan/Downloads/Documents/project_1/project_1.srcs/sim_1/new/TB_Add_Sub_Unit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_Add_Sub_Unit'
